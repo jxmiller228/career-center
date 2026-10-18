@@ -1,0 +1,10 @@
+{
+  "name": "career-center-ui",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build --outDir ../src/main/resources/static --emptyOutDir"
+  },
+  "dependencies": { "react": "^18.3.1", "react-dom": "^18.3.1" },
+  "devDependencies": { "@vitejs/plugin-react": "^4.3.3", "vite": "^5.4.10" }
+}

@@ -1,0 +1,8 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,sans-serif;background:#f3f6fb;color:#1c2733}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;background:#1f4e9c;color:#fff;padding:10px 20px}
+nav{display:flex;flex-wrap:wrap;gap:6px}nav button{background:transparent;border:1px solid #fff8;color:#fff}nav .on{background:#fff;color:#1f4e9c}
+main{max-width:900px;margin:20px auto;padding:0 12px}.card{background:#fff;border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 1px 4px #0001}
+.narrow{max-width:420px;margin:40px auto}input,select,textarea{display:block;width:100%;margin:6px 0;padding:8px;border:1px solid #c5cfdd;border-radius:6px;font:inherit}
+button{padding:7px 14px;border:0;border-radius:6px;background:#1f4e9c;color:#fff;cursor:pointer;margin:2px}.err{color:#b3261e}.warn{background:#fff3cd;padding:10px 20px;margin:0}
+table{width:100%;border-collapse:collapse;background:#fff}td,th{padding:6px;border-bottom:1px solid #e3e8f0;text-align:left}pre{white-space:pre-wrap}
+.row{display:flex;flex-wrap:wrap;gap:6px}.row>*{flex:1 1 140px}
